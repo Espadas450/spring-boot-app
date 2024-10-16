@@ -58,6 +58,12 @@
 			<groupId>org.thymeleaf.extras</groupId>
 			<artifactId>thymeleaf-extras-springsecurity6</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+			<version>10.19.0</version> <!-- Asegúrate de que esta versión exista -->
+		</dependency>
+
 
 		<dependency>
 			<!-- Dependencia de Spring Boot DevTools (para recargar automático) -->
